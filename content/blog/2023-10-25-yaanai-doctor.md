@@ -1,5 +1,5 @@
 +++
-title = "Yaanai Doctor - A Journey into the World of Elephant Healing"
+title = "Yaanai Doctor - A journey into the world of Elephant Healing"
 
 [taxonomies]
 tags = ["books", "tamil", "reading"]
@@ -7,7 +7,9 @@ tags = ["books", "tamil", "reading"]
 [extra]
 toc = false
 +++
-![Book of Yaanai Doctor](/img/blogs/yd.jpg)
+<div class="center">
+<img src="/img/blogs/yd.jpg" alt="Book of Yannai Doctor">
+</div>
 
 Recently, during a visit to Panuval bookstore in Chennai, I came across a book by Jeyamohan, an author whose works I hadn't explored before. While I had never felt a particular fascination for Jeyamohan's writings, I decided to take a leap of faith and chose to delve into his world. I picked up two of his works, "Iravu" (Nights) and "Yaanai Doctor" (The Elephant Doctor).
 

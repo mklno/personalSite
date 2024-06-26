@@ -13,6 +13,7 @@ I am Manoprasanth MATHAVAN, who hail from a little coastal town named Pondicherr
 
 Here are the latest blogs:
 
+- [A Month without Media Consumption](./blog/no-media-consumption)
 - [Killing Commendatore by Murakami](./blog/killing-commendatore)
 - [Tale of an Elephant doctor](./blog/yaanai-doctor)
 
@@ -21,6 +22,6 @@ Here are the latest blogs:
 Browse posts by [tags](./tags):
 
 - [books](./tags/books)
-- [reading](./tags/reading)
+- [experiments](./tags/experiments)
 
 

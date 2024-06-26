@@ -8,7 +8,9 @@ tags = ["murakami","books","reading"]
 toc = false
 +++
 
-![Books of Murakami](/img/blogs/kc.jpg)
+<div class="center">
+<img src="/img/blogs/kc.jpg" alt="Books of Murakami">
+</div>
 
 I still vividly recall the exhilaration and sense of accomplishment that coursed through me when I completed my very first book. It was the work of Haruki Murakami that guided me on this literary journey. Without him, I doubt I would have developed the habit of reading. Everyone has an author who holds a special place in their heart; however, I'm not one to fawn over authors themselves, but rather the content they create. Yet, Murakami's influence on instilling this reading habit in me makes me feel indebted to him.
 
