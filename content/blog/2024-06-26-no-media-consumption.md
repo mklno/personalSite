@@ -19,5 +19,5 @@ So, for the month of June I decided to give up media cosumption, to narrow it do
 
 Though I didn't fail miserably in this challenge. I managed to refrain from consuming media for the first ten days which is a small win to cherish for and after which I fell into the old patterns.
 
-One of the key observation during the initial phase was that my screen time drastically dropped from hours to minutes which I didn't account for while planning. Also, I sent a lot of time reading. Another important thing was utter boredom, I was expecting to be hit by one eventually. Although going through it was kind of horrendous, it rekindled the good old days when I wasn't connected to the Internet. 
+One of the key observation during the initial phase was that my screen time drastically dropped from hours to minutes which I didn't account for while planning. Also, I spent a lot of time reading. Another important thing was utter boredom, I was expecting to be hit by one eventually. Although going through it was kind of horrendous, it rekindled the good old days when I wasn't connected to the Internet. 
 
