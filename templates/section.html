@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <h1>{{ section.title }}</h1>
-{% if config.generate_feed %}
+{% if config.generate_feeds %}
   
     <a class="no-style" target="_blank" rel="noopener noreferrer" href="{{ get_url(path="atom.xml", trailing_slash=false) }}" title="Subscribe via RSS for updates."><svg class="icons"><use href="{{ get_url(path='icons.svg#rss', trailing_slash=false) | safe }}"></use></svg></a>
   
