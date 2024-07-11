@@ -5,7 +5,7 @@ generate_feeds = true
 default_language = "en"
 author = 'Manoprasanth MATHAVAN'
 taxonomies = [
-    {name = "tags", feed = true},
+    {name = "tags", feed = false},
 ]
 
 [languages.fr]
