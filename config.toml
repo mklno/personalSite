@@ -40,9 +40,9 @@ list_pages = false
 twitter_card = false
 
 header_nav = [
-  { url = "/", name_en = "/home", name_fr = "/accueil/" },
-  { url = "/blog", name_en = "/blog", name_fr = "/blog" },
-  { url = "/readinglog", name_en = "/books", name_fr = "/livres" },
+  { url = "/", name_en = "Home", name_fr = "/accueil/" },
+  { url = "/blog", name_en = "Blog", name_fr = "/blog" },
+  { url = "/readinglog", name_en = "Books", name_fr = "/livres" },
 #  { url = "/quotes", name_en = "/quotes", name_fr = "/notes" },
-  { url = "/about", name_en = "/about", name_fr = "/concernant" }
+  { url = "/about", name_en = "About", name_fr = "/concernant" }
 ]

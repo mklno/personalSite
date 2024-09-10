@@ -2,7 +2,7 @@
 title = "Kafkaa"
 +++
 
-# Kakfaa
+# Kafkaa
 
 Hello, welcome to Kafkaa.
 
@@ -13,6 +13,7 @@ I am Manoprasanth MATHAVAN, who hail from a little coastal town named Pondicherr
 
 Here are the latest blogs:
 
+- [Going Forward](./blog/going-forward)
 - [A Month without Media Consumption](./blog/no-media-consumption)
 - [Killing Commendatore by Murakami](./blog/killing-commendatore)
 - [Tale of an Elephant doctor](./blog/yaanai-doctor)

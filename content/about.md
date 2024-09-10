@@ -18,4 +18,4 @@ Propaganda works best when those who are being manipulated are confident they ar
 
 As we are in the Information Age, where we don't just face information overload but also opinion overload, Kafkaa is a place I strive to live away from all the cacophony of the mainstream Internet.
 
-Welcome to my corner of the Internet. Feel free to check my site.  
+Welcome to my corner of the Internet. Feel free to check my site. Subscribe to my blog via [RSS feed](../atom.xml).
