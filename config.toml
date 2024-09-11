@@ -1,7 +1,7 @@
 base_url = "https://kafkaa.xyz/"
 compile_sass = false
 minify_html = true
-generate_feeds = true
+generate_feed = true
 default_language = "en"
 author = 'Manoprasanth MATHAVAN'
 taxonomies = [
